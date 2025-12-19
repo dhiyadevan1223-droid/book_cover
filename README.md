@@ -26,9 +26,9 @@ Choose the appropriate style and color scheme.
 Insert the images in their appropriate places.
 
 ## Step 8:
-Publish the website in the LocalHost.
-
-# PROGRAM:
+Publish the website in 
+## step 9:
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -104,19 +104,7 @@ Publish the website in the LocalHost.
       letter-spacing: 1px;
     }
 
-    .author-photo {
-      position: absolute;
-      bottom: 25px;
-      right: 25px;
-      width: 110px;
-      height: 110px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 4px solid #ffffff;
-      box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
-      z-index: 3;
-      background-color: #6e67cd;
-    }
+    
   </style>
 </head>
 
@@ -125,11 +113,14 @@ Publish the website in the LocalHost.
     <img src="book.jpg" alt="Background Image" class="background">
 
     <div class="overlay">
-      <h1 class="title">Beyond The Screen</h1>
-      <h2 class="subtitle">lost between likes and life</h2>
+      <h1 class="title">BEYOND THE SCREEN</h1>
+      <h2 class="subtitle">  stuck between life and lives</h2>
       <p class="author">by DHIYA</p>
+    
 </body>
 </html>
+
+
 # OUTPUT:
 <img width="1898" height="952" alt="image" src="https://github.com/user-attachments/assets/a9b46ebe-c3fb-4fda-b2fd-afe303c89cb1" />
 
