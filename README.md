@@ -28,6 +28,9 @@ Insert the images in their appropriate places.
 ## Step 8:
 Publish the website in 
 ## step 9:
+
+```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -119,7 +122,7 @@ Publish the website in
     
 </body>
 </html>
-
+```
 
 # OUTPUT:
 <img width="1898" height="952" alt="image" src="https://github.com/user-attachments/assets/a9b46ebe-c3fb-4fda-b2fd-afe303c89cb1" />
